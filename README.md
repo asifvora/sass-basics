@@ -20,7 +20,7 @@ sass-basics/
     variable.scss
 ```
 
-#### 2. Clone the repo
+#### Clone the repo
 
 ```sh
 $ https://github.com/asifvora/sass-basics.git
